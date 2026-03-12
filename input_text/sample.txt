@@ -1,0 +1,3 @@
+Welcome to the Text to Speech System project.
+
+This project converts written text into spoken audio using Google Text to Speech.
