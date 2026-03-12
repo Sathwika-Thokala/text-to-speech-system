@@ -116,8 +116,8 @@ This project can be used in various **assistive and interactive systems**, inclu
 
 ## Author
 
-**Byreddy Sai Reddy**
-Electronics and Communication Engineering
+**Sathwika Thokala**
+Computer Science and Engineering
 SR University, Warangal
 
 Interested in **Software Development, AI Applications, and Accessibility Technologies**
