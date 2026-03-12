@@ -60,7 +60,7 @@ text-to-speech-system
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/text-to-speech-system.git
+git clone https://github.com/Sathwika-Thokala/text-to-speech-system.git
 cd text-to-speech-system
 ```
 
